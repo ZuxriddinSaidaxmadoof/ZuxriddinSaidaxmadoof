@@ -1,9 +1,8 @@
 <h1 align="center">### Hi 👋, I'm Zuxriddin</h1>
 
-<div>
+
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zuxriddinsaidaxmadoof)](https://github.com/anuraghazra/github-readme-stats)
   
-</div>
 <br/>
 
 <h3 align="center">A enterprising backend developer from Uzbekistan</h3>
